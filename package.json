@@ -1,0 +1,1 @@
+{"name":"zhixu-research-reader","version":"0.2.0","private":true,"type":"module","scripts":{"dev":"node server/dev.mjs","dev:web":"vite --host 127.0.0.1 --port 3100 --strictPort","build":"vite build","start":"node server/api.mjs --production","test":"node --test tests/*.test.mjs"},"dependencies":{"react":"18.3.1","react-dom":"18.3.1"},"devDependencies":{"vite":"6.3.5"}}
